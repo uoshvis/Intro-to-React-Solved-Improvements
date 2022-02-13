@@ -1,6 +1,11 @@
 export default function Square(props) {
-    return (
-      <button className="square" onClick={props.onClick}>
+    const winnerStyle = {
+        backgroundColor: 'red'
+      }
+      return (
+      <button
+      className="square" onClick={props.onClick}
+      style={props.winningSquares ? winnerStyle : null}>
         {props.value}
       </button>
     );
