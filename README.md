@@ -8,3 +8,5 @@ Solved improvements:
 2. [Bold the currently selected item in the move list.
    ](https://github.com/uoshvis/Intro-to-React-Solved-Improvements/commit/8d91abc6a30be47936d8f4cdbfb4371c80c8b5c3)
 3. [Rewrite Board to use two loops to make the squares instead of hardcoding them.](https://github.com/uoshvis/Intro-to-React-Solved-Improvements/commit/ba5536bad301991d8889a184eae8161dc4360890)
+4. [Add a toggle button that lets you sort the moves in either ascending or descending order.
+   ](https://github.com/uoshvis/Intro-to-React-Solved-Improvements/commit/450c0cfc3d1921b9f22505a94e57fffd26d40418)
